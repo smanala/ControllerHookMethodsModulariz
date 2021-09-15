@@ -1,0 +1,11 @@
+{
+  "name": "simpleformxmlview",
+  "version": "1.0.0",
+  "description": "First XML View",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saranya",
+  "license": "ISC"
+}
